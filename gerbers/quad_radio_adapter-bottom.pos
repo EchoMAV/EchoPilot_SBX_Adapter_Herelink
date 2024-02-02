@@ -1,0 +1,9 @@
+### Footprint positions - created on Fri Feb  2 13:19:49 2024 ###
+### Printed by KiCad version 7.0.10
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                                               PosX       PosY       Rot  Side
+J1        DF40C-30DP-0.4V(51)  HRS_DF40C-30DP-0.4V_51_                           104.0000  -100.0000  -90.0000  bottom
+J4        Conn_01x04           JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal    93.9152  -104.0250   90.0000  bottom
+J5        Conn_01x03           JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal    93.8152   -94.6000   90.0000  bottom
+## End
